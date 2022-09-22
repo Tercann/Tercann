@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tercann
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Java
 - 📫 How to reach me m.murat.t@outlook.com
 
 <!---
